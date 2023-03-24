@@ -2,7 +2,7 @@
 ### CDS8 Prediction Results
 The results are provided in the directory `cds8_res/`. It can also be downloaded by:
 
-`curl -o cds8_pred_results.csv https://raw.githubusercontent.com/ahortian/ml-mdwarf/main/cds8_res/cds8_pred_results.csv`
+`curl -o cds8_pred_results.csv https://raw.githubusercontent.com/sirinrats/ml-mdwarf/main/cds8_res/cds8_pred_results.csv`
 
 ### Models
 Models are provided in the directory `models/` 
@@ -27,7 +27,7 @@ conda install -c conda-forge imbalanced-learn==0.9.0
 ```
 
 ### Clone the repository
-`git clone https://github.com/ahortian/ml-mdwarf.git`
+`git clone https://github.com/sirinrats/ml-mdwarf.git`
 
 ### Run the application
 ```
