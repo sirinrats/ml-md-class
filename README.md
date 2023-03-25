@@ -41,3 +41,16 @@ conda install -c conda-forge imbalanced-learn==0.9.0
 cd ml-mdwarf
 python application.py
 ```
+
+
+# Model Accuracy
+Expected Accuracy within ±1 Sub-Type (%)
+
+| Model | (default) | (RUS) |
+|-------| --------- |-------|
+| Model 1  | 99.6  | 99.5 |
+| Model 2  | 99.4  | 99.4 |
+| Model 3  | 92.6  | 92.4 |
+| Model 4  | 92.4  | 92.4 |
+| Model 5  | 74.2  | 71.3 |
+| Model 6  | 49.2  | 41.9 |
