@@ -2,13 +2,20 @@
 ### CDS8 Prediction Results
 The results are provided in the directory `cds8_res/`. It can also be downloaded by:
 
-`curl -o cds8_pred_results.csv https://raw.githubusercontent.com/sirinrats/ml-mdwarf/main/cds8_res/cds8_pred_results.csv`
+```
+curl -o cds8_pred_results.csv https://raw.githubusercontent.com/sirinrats/ml-mdwarf/main/cds8_res/cds8_pred_results.csv
+```
 
 ### Models
-Models are provided in the directory `models/` 
+The default models are provided in the directory `models/`.
 
-### Input data (to be predicted) 
-See examples of input (format and order of feature columns used for each model) in the directory `example_input/` 
+The models trained with Random Undersampling (RUS) are provided in the directory `models/models_rus`.
+
+### Confusion Matrices
+All confusion matrices are provided in the directory `cmats`.
+
+### Examples of input data (to be predicted) 
+See examples of input (format and order of feature columns used for each model) in the directory `example_input/`.
 
 # Setup
 ### Install Anaconda
