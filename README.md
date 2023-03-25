@@ -8,7 +8,7 @@ The results are provided in the directory `cds8_res/`. It can also be downloaded
 Models are provided in the directory `models/` 
 
 ### Input data (to be predicted) 
-See examples of input (format and order of feature columns used for each model) in the directory `data_input/` 
+See examples of input (format and order of feature columns used for each model) in the directory `example_input/` 
 
 # Setup
 ### Install Anaconda
