@@ -1,3 +1,5 @@
+# Confusion Matrix of RF Models
+
 ## Model 1: RF with 10 bands (45 features)
 <img src="./exact/model1_rf_cfmatrix_normalized.png" width="440" height="400"> <img src="./plus_error/model1_rf_1err_cfmatrix_normalized.png" width="440" height="400">
 
