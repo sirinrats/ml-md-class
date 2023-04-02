@@ -1,6 +1,6 @@
 # Introduction
 ### CDS8 Prediction Results
-The results are provided in the directory `cds8_res/`. It can also be downloaded by:
+The results are provided in the directory `cds8_res/`. It can be downloaded by:
 
 ```
 curl -o cds8_pred_results.csv https://raw.githubusercontent.com/sirinrats/ml-mdwarf/main/cds8_res/cds8_pred_results.csv
