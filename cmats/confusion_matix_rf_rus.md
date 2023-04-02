@@ -1,3 +1,4 @@
+# RF Models with Random Undersampling (RUS)
 ## Model 1: RF RUS with 10 bands (45 features)
 <img src="./cmats_rus/exact/model1_rf_rus_cfmatrix_normalized.png" width="440" height="400"> <img src="./cmats_rus/plus_error/model1_rf_rus_1err_cfmatrix_normalized.png" width="440" height="400">
 
