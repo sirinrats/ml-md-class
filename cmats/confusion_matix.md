@@ -1,8 +1,8 @@
 ## Model 1: RF with 10 bands (45 features)
-<img src="./exact/RF_cfmatrix_normalized.png" width="440" height="400"> <img src="./exact/RF_cfmatrix.png" width="440" height="400">
+<img src="./exact/RF_cfmatrix_normalized.png" width="440" height="400"> <img src="./plus_error/RF band_cfmatrix_normalized.png" width="440" height="400">
 
 ## Model 2: RF with `ugriz` bands (10 features)
-<img src="./exact/RF SDSS_cfmatrix_normalized.png" width="440" height="400"> <img src="./exact/RF SDSS_cfmatrix.png" width="440" height="400">
+<img src="./exact/RF SDSS_cfmatrix_normalized.png" width="440" height="400"> <img src="./plus_error/rf_sdss_band_cfmatrix_normalized.png" width="440" height="400">
 
 ## Model 3: RF with `rijhkW1W2` bands (21 features)
 
