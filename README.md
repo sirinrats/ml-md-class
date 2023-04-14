@@ -38,7 +38,7 @@ conda install -c conda-forge imbalanced-learn==0.9.0
 
 ### Run the application
 ```
-cd ml-mdwarf
+cd ml-md-class
 python application.py
 ```
 
