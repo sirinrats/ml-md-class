@@ -3,7 +3,7 @@
 The results are provided in the directory `cds8_res/`. It can be downloaded by:
 
 ```
-curl -o cds8_pred_results.csv https://raw.githubusercontent.com/sirinrats/ml-mdwarf/main/cds8_res/cds8_pred_results.csv
+curl -o cds8_pred_results.csv https://raw.githubusercontent.com/sirinrats/ml-md-class/main/cds8_res/cds8_pred_results.csv
 ```
 
 ### Models
@@ -34,7 +34,7 @@ conda install -c conda-forge imbalanced-learn==0.9.0
 ```
 
 ### Clone the repository
-`git clone https://github.com/sirinrats/ml-mdwarf.git`
+`git clone https://github.com/sirinrats/ml-md-class.git`
 
 ### Run the application
 ```
