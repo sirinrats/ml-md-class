@@ -58,7 +58,7 @@ Expected Accuracy within ±1 Sub-Type (%)
 | Model 6  | 49.2  | 41.9 |
 
 
-### Contact
+# Contact
 For any questions or concerns related to this project, please contact:
 sirinrat@narit.or.th
 sithajan.s@gmail.com
