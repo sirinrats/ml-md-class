@@ -1,4 +1,7 @@
 # Introduction
+
+This repository contains the materials for the paper titled: Applied Machine-Learning Models to Identify Spectral Sub-Types of M Dwarfs from Photometric Surveys (https://iopscience.iop.org/article/10.1088/1538-3873/acc974).
+
 ### CDS8 Prediction Results
 The results are provided in the directory `cds8_res/`. It can be downloaded by:
 
@@ -42,7 +45,6 @@ cd ml-md-class
 python application.py
 ```
 
-
 # Model Accuracy
 Expected Accuracy within ±1 Sub-Type (%)
 
@@ -54,3 +56,9 @@ Expected Accuracy within ±1 Sub-Type (%)
 | Model 4  | 92.4  | 92.4 |
 | Model 5  | 74.2  | 71.3 |
 | Model 6  | 49.2  | 41.9 |
+
+
+### Contact
+For any questions or concerns related to this project, please contact:
+sirinrat@narit.or.th
+sithajan.s@gmail.com
