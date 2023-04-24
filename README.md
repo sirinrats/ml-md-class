@@ -62,5 +62,4 @@ Expected Accuracy within ±1 Sub-Type (%)
 For any questions or concerns related to this project, please contact:
 
 sirinrat@narit.or.th
-
 sithajan.s@gmail.com
